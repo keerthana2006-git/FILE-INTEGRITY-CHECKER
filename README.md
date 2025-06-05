@@ -12,7 +12,7 @@
 
 *MENTOR*: NEELA SANTOSH
 
-It can be used as a file watcher
+It can be used as a file watcher:
 File Watcher is a lightweight Python script that monitors a specified folder for any file changes, including additions, deletions, or modifications. It uses SHA-256 hashing to detect even the slightest change in file content and reports it in real time (on an interval basis);like for example 10 seconds
 It:
 ->Monitors a given directory 
