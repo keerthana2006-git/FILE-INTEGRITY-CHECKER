@@ -28,17 +28,17 @@ HOW IT WORKS:
 ->It runs continuously, checking for changes at a set interval (default: 10 seconds).
 
 SAMPLE OUTPUT:
-Monitoring directory: ./sample_folder
+Monitoring directory: ./watch_folder
 
 [NO CHANGES]
 
 [CHANGE DETECTED]
   Added:
-    + new_file.txt
+    + test1.txt
 
 [CHANGE DETECTED]
   Removed:
-    - new_file.txt
+    - test1.txt
 
 Thus this script is ideal for detecting file tampering, configuration drift, or monitoring development folders....
 
