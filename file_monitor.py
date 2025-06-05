@@ -1,3 +1,4 @@
+
 import os
 import hashlib
 import json
@@ -85,5 +86,5 @@ def monitor():
         old_hashes = new_hashes
         time.sleep(SLEEP_INTERVAL)
 
-if _name_ == '_main_':
+if __name__ == '__main__':
     monitor()
