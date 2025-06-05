@@ -42,6 +42,13 @@ Monitoring directory: ./sample_folder
 
 Thus this script is ideal for detecting file tampering, configuration drift, or monitoring development folders....
 
+#OUTPUT
+![Image](https://github.com/user-attachments/assets/bfb644a8-131b-4469-91b1-ad8bb7997ca8)
+
+![Image](https://github.com/user-attachments/assets/10c2e87d-349b-4da9-853a-36f40c865dd1)
+
+![Image](https://github.com/user-attachments/assets/e4d6e44b-eca5-4ff4-aaad-5dbf2cb312a4)
+
 
 
 
